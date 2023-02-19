@@ -1,0 +1,70 @@
+.head-heading > img {
+
+	margin-top: 9em;
+}
+
+
+/*style hero header*/
+
+#judul-foodheader > h1 {
+
+	margin-left: 130px;
+}
+
+#judul-foodheader > p {
+
+	margin-left: 130px;
+
+}
+
+#foodheader > * {
+
+	margin-top: 10em;
+}
+
+#img-delivery-boy {
+
+	
+    margin: 5em 30em 0em 0em;
+    margin-left: 7em;
+}
+
+#judul-ajakanbeli > h1 {
+
+	margin-left: 109px;
+}
+
+#ajakanbeli > * {
+
+	margin-top: 10em;
+}
+ 
+.keterangan-delivery-boy {
+
+	margin-top: 13em;
+}
+
+#img-menu1 > img {
+
+	padding-top: 5em;
+}
+
+
+
+#img-menu-ke2 > img {
+
+	padding-top: 5em;
+}
+
+
+
+#img-menu-ke3 > img {
+
+	padding-top: 5em;
+}
+
+
+a:hover {
+
+	
+	}

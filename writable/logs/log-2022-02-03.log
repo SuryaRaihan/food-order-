@@ -1,0 +1,70 @@
+CRITICAL - 2022-02-03 00:40:19 --> Invalid file: /page/.php
+#0 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/page/.php')
+#1 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/page/', Array, true)
+#2 C:\Xampp\htdocs\food\app\Controllers\Home.php(10): view('/page/')
+#3 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Xampp\htdocs\food\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-03 00:40:19 --> Invalid file: /page/.php
+#0 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/page/.php')
+#1 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/page/', Array, true)
+#2 C:\Xampp\htdocs\food\app\Controllers\Home.php(10): view('/page/')
+#3 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Xampp\htdocs\food\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-03 00:40:47 --> Invalid file: /page/.php
+#0 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/page/.php')
+#1 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/page/', Array, true)
+#2 C:\Xampp\htdocs\food\app\Controllers\Home.php(10): view('/page/')
+#3 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Xampp\htdocs\food\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-03 00:40:48 --> Invalid file: /page/.php
+#0 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/page/.php')
+#1 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/page/', Array, true)
+#2 C:\Xampp\htdocs\food\app\Controllers\Home.php(10): view('/page/')
+#3 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Xampp\htdocs\food\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-03 00:40:48 --> Invalid file: /page/.php
+#0 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/page/.php')
+#1 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/page/', Array, true)
+#2 C:\Xampp\htdocs\food\app\Controllers\Home.php(10): view('/page/')
+#3 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Xampp\htdocs\food\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-03 00:40:48 --> Invalid file: /page/.php
+#0 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/page/.php')
+#1 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/page/', Array, true)
+#2 C:\Xampp\htdocs\food\app\Controllers\Home.php(10): view('/page/')
+#3 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Xampp\htdocs\food\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-03 01:53:17 --> Invalid file: /page/home.php
+#0 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/page/home.php')
+#1 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('/page/home', Array, true)
+#2 C:\Xampp\htdocs\food\app\Controllers\Home.php(10): view('/page/home')
+#3 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Xampp\htdocs\food\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Xampp\htdocs\food\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\Xampp\\htdocs...')
+#8 {main}
